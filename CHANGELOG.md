@@ -4,6 +4,8 @@
 
 [Full Changelog](https://github.com/CosmWasm/wasmd/compare/v0.70.2...HEAD)
 
+- Fix case-insensitive Bech32 address matching in wasm access allowlists
+
 ## [v0.70.2](https://github.com/CosmWasm/wasmd/tree/v0.70.2) (2026-05-22)
 
 [Full Changelog](https://github.com/CosmWasm/wasmd/compare/v0.70.1...v0.70.2)
